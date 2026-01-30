@@ -1,7 +1,7 @@
 #!/bin/bash
 
-
 # Bash Script for DevOps Lab 2
+
 
 
 rm -rf fol_1 fol_2
@@ -18,7 +18,6 @@ touch fol_2/2_1.txt fol_2/2_2.txt fol_2/2_3.txt
 
 chmod 600 fol_1/1_1.txt fol_1/1_3.txt
 chmod 600 fol_2/2_1.txt fol_2/2_3.txt
-
 
 chmod 777 fol_1/1_2.txt
 chmod 777 fol_2/2_2.txt
